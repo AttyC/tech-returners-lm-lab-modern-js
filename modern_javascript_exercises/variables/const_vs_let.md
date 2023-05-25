@@ -10,7 +10,7 @@ But whats the difference? 🤔
 
 - `const` cannot be reassigned
 
-- `let` let's you reassign it
+- `let` lets you reassign it
 
 To see this in action, complete the tasks in `const_vs_let.js` (outlined below)
 
