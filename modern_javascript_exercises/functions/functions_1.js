@@ -18,26 +18,26 @@
 
 // Your code here
 
-const people = ["Harry", "Hermione", "Ron"];
+// const people = ["Harry", "Hermione", "Ron"];
 
-const performLogPerson = function logPerson(person) {
-  console.log("The person is " + person);
-};
+// const performLogPerson = function logPerson(person) {
+//   console.log("The person is " + person);
+// };
 
-people.forEach(logPerson);
+// people.forEach(logPerson);
 
 // Arrow Functions in a Variable
 
 // 1. Write a version of logPerson() as an Arrow Function
 // 2. and store it in a variable called arrowVersionOfLogPerson
 
-const people = ["Harry", "Hermione", "Ron"];
+// const people = ["Harry", "Hermione", "Ron"];
 
-const logPerson = (person) => console.log("The person is " + person);
+// const logPerson = (person) => console.log("The person is " + person);
 
-const arrowVersionOfLogPerson = logPerson(person);
+// const arrowVersionOfLogPerson = logPerson(person);
 
-people.forEach(logPerson);
+// people.forEach(logPerson);
 
 
 // Anonymous Arrow Functions
